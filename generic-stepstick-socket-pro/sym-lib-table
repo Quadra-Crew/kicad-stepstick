@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Library")(type "KiCad")(uri "D:/Github-repositories/Quadra/kicad-stepstick/Library.kicad_sym")(options "")(descr ""))
+  (lib (name "generic-stepstick-socket-pro")(type "KiCad")(uri "D:/Github-repositories/Quadra/kicad-stepstick/lib/generic-stepstick-socket-pro.kicad_sym")(options "")(descr ""))
+)
