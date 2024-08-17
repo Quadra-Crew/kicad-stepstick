@@ -176,7 +176,10 @@
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/fa50ec21-09a5-41e5-accd-586ad66025a1")
+		(sheetname "Root")
+		(sheetfile "generic-stepstick.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.8 1.8)
@@ -337,6 +340,7 @@
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole circle
@@ -510,7 +514,10 @@
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/53b36dfb-1714-478c-8ee9-160ffac2163e")
+		(sheetname "Root")
+		(sheetfile "generic-stepstick.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.8 1.8)
@@ -671,6 +678,7 @@
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole circle
@@ -844,7 +852,10 @@
 				(justify mirror)
 			)
 		)
+		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/c7d4a7dc-27fe-4f4e-b0d7-09c3fd4f578b")
+		(sheetname "Root")
+		(sheetfile "generic-stepstick.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.8 1.8)
@@ -1005,6 +1016,7 @@
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(pad "1" thru_hole circle

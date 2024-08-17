@@ -80,19 +80,19 @@
   "project": {
     "files": [
       {
-        "name": "generic-stepstick-socket-pro.kicad_pcb",
+        "name": "generic-stepstick-socket-pro.kicad_sch",
         "open": false,
         "window": {
           "display": 1,
           "maximized": false,
-          "pos_x": -10,
+          "pos_x": 1910,
           "pos_y": 0,
           "size_x": 1940,
           "size_y": 2086
         }
       },
       {
-        "name": "generic-stepstick-socket-pro.kicad_sch",
+        "name": "generic-stepstick-socket-pro.kicad_pcb",
         "open": false,
         "window": {
           "display": 1,

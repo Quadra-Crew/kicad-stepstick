@@ -22,7 +22,7 @@
 				)
 			)
 		)
-		(property "Footprint" "generic-stepstick:generic-stepstick"
+		(property "Footprint" ""
 			(at 0 -2.54 0)
 			(effects
 				(font
