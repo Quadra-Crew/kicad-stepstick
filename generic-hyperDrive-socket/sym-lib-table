@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "pcie_socket")(type "KiCad")(uri "${KIPRJMOD}/Lib/10018784-10210TLF/10018784-10210TLF.kicad_sym")(options "")(descr ""))
+)
